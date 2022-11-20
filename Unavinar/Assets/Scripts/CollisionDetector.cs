@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ColDetect : MonoBehaviour
+public class CollisionDetector : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
@@ -11,5 +11,6 @@ public class ColDetect : MonoBehaviour
         transform.parent = null;
         
         GetComponent<Rigidbody>().constraints = RigidbodyConstraints.None;
+        Destroy(this);
     }
 }

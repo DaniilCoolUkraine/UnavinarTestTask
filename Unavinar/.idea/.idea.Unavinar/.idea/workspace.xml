@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="ee257165-5b8b-41b2-93a0-9fa42dae2712" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unavinar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unavinar/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Materials/PlayerPartsMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Design/Materials/PlayerPartsMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColDetect.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColDetect.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +24,6 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://E:/UnavinarTestTask/Unavinar/Assets/Scripts/ColDetect.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,6 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668876938252</updated>
       <workItem from="1668876948330" duration="2314000" />
+      <workItem from="1668883600778" duration="66000" />
+      <workItem from="1668950298757" duration="10155000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1668877060097</created>
@@ -84,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668878952437</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add player model and colliders configued">
+      <created>1668883653250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668883653250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +121,7 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="added collision detection logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="added collision detection logic" />
+    <MESSAGE value="add player model and colliders configued" />
+    <option name="LAST_COMMIT_MESSAGE" value="add player model and colliders configued" />
   </component>
 </project>
